@@ -1,0 +1,26 @@
+[
+{
+"id": "nike",
+"name": "Nike",
+"category": "Sportswear",
+"image_url": "https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/assets/logos/nike.png",
+"emoji_hint": "🏃‍♂️👟",
+"hints": {
+"short": "Just Do It",
+"ai_hint": "This company is named after the Greek goddess of victory.",
+"fact": "Its Swoosh logo was designed for $35 in 1971."
+}
+},
+{
+"id": "apple",
+"name": "Apple",
+"category": "Technology",
+"image_url": "https://cdn.jsdelivr.net/gh/<USER>/<REPO>@main/assets/logos/apple.png",
+"emoji_hint": "🍎💻",
+"hints": {
+"short": "Think Different",
+"ai_hint": "Founded in a California garage by two Steves.",
+"fact": "The bitten apple symbolizes knowledge."
+}
+}
+]

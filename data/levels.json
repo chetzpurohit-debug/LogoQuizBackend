@@ -1,0 +1,7 @@
+{
+"levels": [
+{ "level": 1, "numLogos": 5, "timePerLogo": 20, "maxHints": 2 },
+{ "level": 2, "numLogos": 8, "timePerLogo": 18, "maxHints": 2 },
+{ "level": 3, "numLogos": 12, "timePerLogo": 15, "maxHints": 1 }
+]
+}
